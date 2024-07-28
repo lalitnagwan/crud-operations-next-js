@@ -1,0 +1,3 @@
+[remote "origin"]
+ url = https://github.com/lalitnagwan/crud-operations-next-js.git
+ fetch = +refs/heads/*:refs/remotes/origin/*
